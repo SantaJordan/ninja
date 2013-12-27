@@ -1,0 +1,131 @@
+a:link {color: #B20000; text-decoration: underline; }
+a:active {color: #B20000; text-decoration: underline; }
+a:visited {color: #B20000; text-decoration: underline; }
+a:hover {color: #B20000; text-decoration: none; }
+
+
+
+body,
+.pure-g [class *= "pure-u"],
+.pure-g-r [class *= "pure-u"] {
+    font-family: 'Alegreya Sans', sans-serif;
+background: #191818;
+}
+
+.parking {
+	color: white;
+	margin-bottom: 10px;
+}
+
+.locu {
+	padding: 20px;
+	display: block; 
+	background-color: white;
+}
+
+.navigation {
+	margin-left: 20px;
+}
+
+.fullclass {
+	width: 100%;
+	height: 100%;
+}
+
+.parking2 {
+	width: 100%;
+	margin-top: 10px;
+}
+
+#header {
+	font-size: 20px;
+	color: #591f22;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.logo {
+	padding-bottom: 15px;
+	margin-left: 10px;
+}
+
+.logomobile {
+	padding-bottom: 15px;
+	margin-left: 40px;
+}
+
+li {
+	color: #cd232b;
+}
+
+html,body {
+	height: 100%;
+	font: 17px/22px Buenard, Georgia, serif;
+}
+
+strong {
+	font-weight: bold;
+}
+
+.social {
+	opacity: .6;
+}
+.social2 {
+	margin-right: 4px;
+}
+
+
+/*body {
+	background: #FFF7DA;
+}*/
+
+p {
+	margin-bottom: 7px;
+	color: gray;
+	font-size: 1.0em;
+	margin-left: 30px;
+	margin-right: 40px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+.smaller {
+	font-size: 1em;
+}
+
+.pure-button-call {
+            color: white;
+            border-radius: 2px;
+        }
+.pure-button-call {
+            background: rgb(176, 58, 46); /* this is a green */
+        }
+
+
+
+ul {
+	list-style-type: none;
+}
+
+ol {
+	color: #591f22;
+	font-size: 1.2em;
+	margin-top: 20px;
+	margin-left: 110px;
+}
+
+blockquote {
+	color: black;
+	font-size: 1.0em;
+	margin-left: 20px;
+	margin-right: 30px;
+	margin-top: 30px;
+}
+
+h2 {
+	color: #591f22;
+	font-size: 1.4em;
+	margin-top: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
